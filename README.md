@@ -1,1 +1,2 @@
-scc
+## Spring Cloud Config
+
